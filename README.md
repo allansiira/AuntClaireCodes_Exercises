@@ -1,1 +1,1 @@
-# AuntClaireCodes_Exercises
+# Exercises
